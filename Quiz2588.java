@@ -15,4 +15,4 @@ public class Quiz2588 {
 		}
 		System.out.println(total);
 	}
-}aa
+}
